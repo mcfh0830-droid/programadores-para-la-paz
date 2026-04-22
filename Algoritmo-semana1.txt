@@ -1,0 +1,8 @@
+1.Buscar información
+2.Revisar Fuente
+3.Confirmar la noticia en otras fuentes confiables
+4.Verificar fecha de publicación para confirmar que sea actual
+5.Analizar si la información tiene datos que la respalden
+6.Evitar compartir información con títulos dudosos
+7.Pensar antes de compartir si puede afectar a otras personas
+8.Compartir solo si estas seguro de que la información sea verdadera
