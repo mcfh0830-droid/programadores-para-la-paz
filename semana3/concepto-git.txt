@@ -1,0 +1,7 @@
+Pregunta 7: Explicar conceptos básicos de Git 
+
+-Repositorio: Es el lugar donde se almacena un proyecto junto con todo su historial de cambios. En git, permite organizar archivos y trabajar en equipo de forma ordenada 
+
+-Commit: Es un registro de cambios que se guarda en el historial del proyecto. Cada commit incluye una descripción de lo que se modificó o agregó. Sirve para poder volver a versiones anteriores si es necesario 
+
+-Push: Es el comando que envía los cambios locales al repositorio remoto. Permite compartir el trabajo con otros desarrolladores. Así, el proyecto se actualiza en línea y todos pueden ver los cambios
