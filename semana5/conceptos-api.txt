@@ -1,0 +1,16 @@
+•¿Que hace esta ruta?
+1. Espera una petición post en /reporte (recibe información)
+2. ⁠toma el mensaje enviado (la guarda en una variable)
+3. ⁠devuelve una respuesta en JSON (responde confirmación de recibido)
+
+•¿Para qué podría servir en una aplicación comunitaria?
+En una aplicación comunitaria, ese código podría servir como el sistema básico para recibir reportes de los ciudadanos o vecinos.
+
+Por ejemplo, la comunidad podría usar la app para:
+
+•Reportar huecos en las calles.
+•Avisar de cortes de agua o luz.
+•Informar sobre basura acumulada.
+•Denunciar actos de vandalismo.
+•Solicitar ayuda comunitaria.
+•Enviar sugerencias al barrio o municipio

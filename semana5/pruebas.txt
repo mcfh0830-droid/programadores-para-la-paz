@@ -1,0 +1,10 @@
+Resultados de las pruebas de rutas:
+
+1. http://localhost:3000
+Al acceder a la raíz del servidor, se ejecuta la ruta GET '/' y el navegador muestra el texto: "Servidor activo".
+
+2. http://localhost:3000/saludo
+Al acceder a esta URL, se activa la ruta GET '/saludo' y el navegador muestra el mensaje: "Hola comunidad".
+
+3. http://localhost:3000/mensaje/juan
+Esta ruta utiliza un parámetro dinámico (:nombre). Al ingresar "juan" en la URL, el servidor lo detecta mediante `req.params.nombre` y el navegador muestra el texto personalizado: "Hola juan".
