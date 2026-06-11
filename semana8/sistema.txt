@@ -1,7 +1,10 @@
 Respuesta 7
+
 ¿Qué información muestra cada comando?
+-Comando: uname -a
+Muestra información completa del sistema operativo, incluyendo el nombre del sistema, la versión del kernel, la arquitectura del procesador y otros detalles técnicos.
+-Comando: whoami
+Muestra el nombre del usuario que está utilizando la sesión actual del sistema.
 
-
-¿Por qué es útil conocer información del sistema cuando se administra un servidor?
-Conocer la información del sistema es fundamental al administrar un servidor porque permite identificar las características del hardware, el sistema operativo y los recursos disponibles. Esta información ayuda a monitorear el rendimiento, detectar posibles fallas y tomar decisiones adecuadas sobre actualizaciones o configuraciones.
-Además, conocer el estado del sistema facilita la solución de problemas, mejora la seguridad y permite verificar que los servicios funcionen correctamente. De esta manera, se garantiza una administración más eficiente, estable y segura del servidor.
+¿Por qué es útil conocer esta información cuando se administra un servidor?
+Conocer la información del sistema permite identificar el entorno donde se trabaja, verificar la versión del sistema operativo, comprobar la arquitectura del equipo y saber con qué usuario se están ejecutando las tareas. Esto ayuda a realizar configuraciones correctas, solucionar problemas, mejorar la seguridad y administrar el servidor de forma eficiente.
