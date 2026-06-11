@@ -1,0 +1,7 @@
+Respuesta 7
+¿Qué información muestra cada comando?
+
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+Conocer la información del sistema es fundamental al administrar un servidor porque permite identificar las características del hardware, el sistema operativo y los recursos disponibles. Esta información ayuda a monitorear el rendimiento, detectar posibles fallas y tomar decisiones adecuadas sobre actualizaciones o configuraciones.
+Además, conocer el estado del sistema facilita la solución de problemas, mejora la seguridad y permite verificar que los servicios funcionen correctamente. De esta manera, se garantiza una administración más eficiente, estable y segura del servidor.
