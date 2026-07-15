@@ -1,0 +1,21 @@
+Modelo básico de datos
+
+Entidad: Causa
+
+* id: Identificador único de la causa.
+* titulo: Nombre o título de la causa comunitaria.
+* descripcion: Explicación detallada del problema o propuesta.
+* fecha: Fecha en que se creó la causa.
+
+¿Para qué sirve?
+La entidad Causa almacena la información principal de cada iniciativa o petición que los ciudadanos desean promover dentro de la plataforma.
+
+Entidad: Apoyo
+
+* id: Identificador único del apoyo registrado.
+* causa_id: Identificador de la causa a la que se brinda apoyo.
+* nombre: Nombre de la persona que apoya la causa.
+* fecha: Fecha en que se registró el apoyo.
+
+¿Para qué sirve?
+La entidad Apoyo almacena los respaldos que recibe cada causa. Además, permite contar cuántas personas apoyan una petición y relacionar cada apoyo con la causa correspondiente mediante el campo causa_id.
